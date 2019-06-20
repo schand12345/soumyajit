@@ -1,0 +1,40 @@
+Please find below list of expected questions
+
+ 
+
+General questions
+
+       1. Rate yourself in terms of tech
+
+                (I was giving rating 4.5 /5 for MVC,C# and  3.5/5 for SQL, JQuerry and Bootstrap)
+
+       2. Difference between Architecture and Design pasterns
+
+MVC 
+
+Difference between html helper controls and html controls.
+MVC Routing
+Authentication authorization 
+Validations in MVC using jQuerry.
+Data annotations- how its working.
+Model Binding.
+C#
+      1. Difference between static and constant variable
+      2. Abstract class.
+      3. Where we can use interface. 
+      4. What is the advantages of using interface. 
+      5. Explain the Live examples where we used those concepts in last projects.
+      4. Implementation of Inheritance with live example.
+ SQL
+      1. Clustered index and non clustered index.
+      2. Performance tuning using SQL query analyzer  ( I believe I may miss some points here 
+since I was not using SQL for a long time).
+      3. Difference between stored procedure and functions.
+Bootstraps
+      1. Difference between container and container-fluid
+JQuery
+      1. Selectors in jQuerry
+      2. How to select by ID 
+ mvc
+=====================
+

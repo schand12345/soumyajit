@@ -1,0 +1,13 @@
+react setup
+virtual dom
+jsx
+props
+es6(import and export) spade operator and arrow function
+promises in es6
+components (stateless and stateful)
+lifecycle
+redux pattern
+higer order component
+css 
+graph ql
+
